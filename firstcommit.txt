@@ -3,5 +3,4 @@ master
 sb
 sb 1
 Забыли добавить в пред коммит.
-capital added
 second cap added
